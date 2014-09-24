@@ -1,4 +1,4 @@
-JavaScriptTo-Do Web App
+JavaScript To-Do Web App
 =======
 
 **ToDo Application**
