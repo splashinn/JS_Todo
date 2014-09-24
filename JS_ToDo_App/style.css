@@ -1,0 +1,69 @@
+body {
+	margin: 50px auto;
+	text-align: center;
+  font-family: Ubuntu, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 28px;
+  color: #2E9AFE;
+}
+
+#task_form {
+  margin-bottom: 50px;
+}
+
+#task_field {
+	width: 500px;
+  font-family: Ubuntu, Helvetica. sans-serif;
+  font-size: 24px;
+  color: #ED4228;
+  border: none;
+  border-bottom: 2px dotted #D6C8C7;
+  outline: none;
+}
+
+::-webkit-input-placeholder {
+  color: #D6C8C7;
+}
+
+::-moz-input-placeholder {
+  color: #D6C8C7;
+}
+
+::-input-placeholder {
+  color: #D6C8C7;
+}
+
+#add_button {
+  font-family: Ubuntu, Helvetica, sans-serif;
+  font-size: 40px;
+  border: none;
+  color: #58ACFA;
+  background: #FFFFFF;
+  outline: none;
+  padding-bottom: 4px;
+}
+
+.tasks {
+  color: #D4DA54;
+  cursor: default;
+  font-size: 28px;
+  margin-top: 20px;
+  text-align: right;
+  margin-right: 44%;
+}
+
+.remove {
+  font-family: Ubuntu, Helvetica, sans-serif;
+  font-size: 28px;
+  color: #F9836B;
+  border: none;
+  background: #FFFFFF;
+  padding-left: 50px;
+  outline: none;
+}
+
+.strike_through {
+  text-decoration: line-through;
+}
